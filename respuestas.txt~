@@ -44,8 +44,8 @@ NoMethodError: undefined method `to_a' for 3:Fixnum
 52. ejecuta la siguiente parte de código con dos argumentos (4 y 5)
 53. 
 54. ["hello", "world", "hello", "LPP"] 
-55. La primera crea el array {:a=>3, :b=>2, :c=>1}  y el segundo muestra la lista ordenada 
+55. {:a=>3, :b=>2, :c=>1}   
   3
   2
   1
-56. git@github.com:alu0100036862/prct03.git
+56. 
